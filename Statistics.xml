@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map>
+      <entry key="JetBrains.UserIdOnMachine" value="57379d92-d07b-4075-bf13-be349e8df232"/>
+      <entry key="show" value="yes"/>
+      <entry key="number" value="3"/>
+    </map>
+    <node name="jetbrains">
+      <map>
+        <entry key="user_id_on_machine" value="57379d92-d07b-4075-bf13-be349e8df232"/>
+        <entry key="device_id" value="1007201ce8a00e7-f564-4e93-9d50-e21878dacaf1"/>
+        <entry key="feature_usage_event_log_salt" value="q8l8Ib2oLhWHWeefx10xk9A0BxQSZivfgNDs4ps2OtQ="/>
+      </map>
+      <node name="privacy_policy">
+        <map>
+          <entry key="accepted_version" value="2.1"/>
+        </map>
+      </node>
+    </node>
+  </root>
+</preferences>
